@@ -1,0 +1,8 @@
+[build-system]
+requires = ["setuptools>=69.0.3", "wheel>=0.42.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quantum_gate_simulator"
+version = "1.0.0"
+requires-python = ">=3.13"
