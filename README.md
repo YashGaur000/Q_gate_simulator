@@ -26,9 +26,3 @@ Run the Streamlit app for an interactive experience:
 ```bash
 streamlit run app.py
 ```
-
-### Command Line Examples
-Alternatively, run the examples script to see quantum gates in action:
-```bash
-python examples.py
-```
